@@ -112,8 +112,3 @@ Sorularınız veya önerileriniz için:
 - **E-posta**: fatihnakit@gmail.com
 - **GitHub**: [fatihnakit](https://github.com/fatihnakit)
 
-
-
----
-
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
