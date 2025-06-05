@@ -76,8 +76,6 @@ results.txt içinde analiz sonuçlarını görüntüleyin.
 
 graphs/ klasöründe otomatik oluşturulan grafiklere bakın.
 
-
-
 ---
 
 🤝 Contributing / Katkıda Bulunma
