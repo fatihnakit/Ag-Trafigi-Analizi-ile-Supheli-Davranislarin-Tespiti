@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/fatihnakit/Projem?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/fatihnakit/Projem?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/fatihnakit/Projem?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/fatihnakit/Projem?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+Projem Hakkında
+Ağ Güvenliği: Ağ Trafiği Analizi ile Olası Saldırıların Tespiti
 
 A brief, engaging description of your project.  
 *Projenizin kısa ve ilgi çekici bir açıklaması.*
@@ -25,17 +25,6 @@ A brief, engaging description of your project.
   *Özellik 3: Ve bir tane daha.*
 - Add more as they develop.  
   *Geliştikçe daha fazla ekleyin.*
-
----
-
-## Team / *Ekip*
-
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
 
 ---
 
@@ -118,17 +107,6 @@ Follow our coding standards (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 Licensed under the [MIT License](LICENSE.md).  
 *MIT Lisansı altında lisanslanmıştır.*
-
----
-
-## Acknowledgements / *Teşekkürler* (Optional)
-
-Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
-
-*Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
 ---
 
